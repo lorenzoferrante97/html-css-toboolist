@@ -10,6 +10,7 @@
 
 body {
     background-color: #F6F8F9;
+    font-family: "Poppins", sans-serif;
 }
 
 /* stile figure */
@@ -38,6 +39,12 @@ figure {
 }
 .bg-green {
     background-color: #A3D116;
+}
+
+/* stili testi */
+.logotype {
+    font-size: 40px;
+    font-weight: 600;
 }
 
 /* stili status task */
