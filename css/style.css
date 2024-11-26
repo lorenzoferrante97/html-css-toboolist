@@ -58,3 +58,8 @@ figure {
     border: 1px solid #FF4141;
     color: #FF4141;
 }
+
+/* stili badge */
+.badge {
+    border-radius: 64px;
+}
