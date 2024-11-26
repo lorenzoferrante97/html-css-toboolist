@@ -108,5 +108,6 @@ figure {
 }
 /* bordo inferiore sezione buttons */
 #button-list {
-    border-bottom: 1px solid #F6F8F9;
+    border-bottom: 4px solid #F6F8F9;
+    padding-bottom: 8px;
 }
