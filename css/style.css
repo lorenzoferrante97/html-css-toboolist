@@ -89,3 +89,7 @@ figure {
     color: gray;
     border: 1px solid gray;
 }
+/* bordo inferiore sezione buttons */
+#button-list {
+    border-bottom: 1px solid #F6F8F9;
+}
