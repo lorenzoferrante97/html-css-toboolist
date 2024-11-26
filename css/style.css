@@ -28,6 +28,11 @@ header figure, header .logotype {
     vertical-align: middle;
 }
 
+/* classe inline-block */
+.inline-block {
+    display: inline-block;
+}
+
 /* stile figure */
 figure {
     display: inline-block;
@@ -84,6 +89,11 @@ figure {
 .status-undone {
     border: 1px solid #FF4141;
     color: #FF4141;
+}
+
+/* stili arrow dropdown */
+#task-list > div > p > span {
+    font-size: 12px;
 }
 
 /* stili badge */
