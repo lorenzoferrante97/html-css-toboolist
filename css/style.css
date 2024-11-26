@@ -17,6 +17,11 @@ main {
     border-radius: 16px;
 }
 
+header {
+    padding: 8px 16px;
+    margin-bottom: 40px;
+}
+
 /* stile figure */
 figure {
     display: inline-block;
