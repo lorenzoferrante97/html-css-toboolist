@@ -41,7 +41,6 @@ figure {
 }
 
 /* stili status task */
-
 .task-status {
     border-radius: 50%;
 
@@ -50,4 +49,12 @@ figure {
 
     font-size: 12px;
     text-align: center;
+}
+.status-done {
+    border: 1px solid #2CC6AB;
+    color: #2CC6AB;
+}
+.status-undone {
+    border: 1px solid #FF4141;
+    color: #FF4141;
 }
