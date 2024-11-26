@@ -8,7 +8,35 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: #F6F8F9;
+}
+
 /* stile figure */
 figure {
     display: inline-block;
+}
+
+/* stili colori */
+
+.bg-white {
+    background-color: white;
+}
+.bg-blue {
+    background-color: #14AAF5;
+}
+.bg-purple {
+    background-color: #AB5DE6;
+}
+.bg-teal {
+    background-color: #2CC6AB;
+}
+.bg-orange {
+    background-color: #FF9B00;
+}
+.bg-pink {
+    background-color: #EC4A9D;
+}
+.bg-green {
+    background-color: #A3D116;
 }
