@@ -13,6 +13,10 @@ body {
     font-family: "Poppins", sans-serif;
 }
 
+main {
+    border-radius: 16px;
+}
+
 /* stile figure */
 figure {
     display: inline-block;
