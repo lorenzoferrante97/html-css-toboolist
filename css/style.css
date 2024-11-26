@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:1,400;1,500;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 /* reset css + stile body */
 
@@ -44,6 +44,11 @@ figure {
 /* stili testi */
 .logotype {
     font-size: 40px;
+    font-weight: 600;
+}
+/* nome dropdown */
+#task-list > div > p {
+    font-size: 20px;
     font-weight: 600;
 }
 
