@@ -60,6 +60,9 @@ figure {
 .bg-green {
     background-color: #A3D116;
 }
+.color-white {
+    color: white;
+}
 
 /* stili testi */
 .logotype {
@@ -104,6 +107,7 @@ figure {
 /* stili badge */
 .badge {
     border-radius: 64px;
+    font-size: 12px;
 }
 
 /* stili button */
@@ -116,7 +120,6 @@ figure {
 }
 .btn-primary {
     background-color: #14AAF5;
-    color: white;
 }
 .btn-secondary {
     color: gray;
