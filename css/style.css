@@ -93,6 +93,9 @@ figure {
 
 /* stili button */
 #button-list > div {
+    display: inline-block;
+    padding: 8px 16px;
+
     border-radius: 8px;
     font-size: 14px;
 }
