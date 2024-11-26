@@ -75,3 +75,9 @@ figure {
 .badge {
     border-radius: 64px;
 }
+
+/* stili button */
+#button-list > div {
+    border-radius: 8px;
+    font-size: 14px;
+}
